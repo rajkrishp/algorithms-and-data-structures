@@ -41,3 +41,13 @@ java -cp target/classes com.raj.algorithms.strings.NumeronymConverter "internati
 - Linked List reversal
 - Stack/Queue implementations
 - Sliding Window patterns
+
+## Added: Two Sum (Array + Hash Map)
+
+- Location: `src/main/java/com/raj/algorithms/arrays/TwoSum.java`
+- Test file: `src/test/java/com/raj/algorithms/arrays/TwoSumTest.java`
+- Complexity: **O(n)** time, **O(n)** space
+
+Example:
+- Input: `nums = [2,7,11,15], target = 9`
+- Output: `[0,1]`
